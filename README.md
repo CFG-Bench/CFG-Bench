@@ -13,7 +13,9 @@
 ---
 
 ## News
-* **`2026.06.24`** 🌟 We released CFG-Bench, a fine-grained cognitive benchmark for embodied agents.
+
+* **`2026.06`** 🎉 CFG-Bench has been accepted to ECCV 2026!
+* **`2026.06`** 🌟 We released CFG-Bench, a fine-grained cognitive benchmark for embodied agents.
 
 ## Introduction
 
@@ -33,7 +35,7 @@ Our dataset is under the CC-BY-NC-SA-4.0 license.
 
 If you need to access and use our dataset, you must understand and agree: **This dataset is for research purposes only and cannot be used for any commercial or other purposes. The user assumes all effects arising from any other use and dissemination.**
 
-We do not own the copyright of any raw video files. Currently, we provide video access to researchers under the condition of acknowledging the above license. For the video data used, we respect and acknowledge any copyrights of the video authors. Therefore, for the TV series and animations used in the dataset, we have applied several preprocessing steps to minimize any potential impact on the original copyrights. These include reducing video resolution, segmenting videos into short clips, and applying dimension adjustments.
+We do not own the copyright of any raw video files. Currently, we provide video access to researchers under the condition of acknowledging the above license. For the video data used, we respect and acknowledge any copyrights of the video authors. Therefore, we have applied several preprocessing steps to minimize any potential impact on the original copyrights. These include reducing video resolution, segmenting videos into short clips, and applying dimension adjustments.
 
 If any content in CFG-Bench raises copyright concerns, please contact liu_dayong@zju.edu.cn or open an issue in this repository. We will review the request promptly and, when needed, replace the relevant video clips with adjusted sparse-frame representations. If frame-level release is also unsuitable, we will keep the annotations while replacing the visual content with metadata or other appropriate alternatives.
 
